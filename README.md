@@ -20,7 +20,7 @@ Machine learning is increasingly used in cancer detection to assist doctors by i
 
 ## 🖼️ System Visualization
 
-![Cancer Detection Model](assets/cancer_detection_Model.PNG)
+![Cancer Detection Model](assets/Cancer_detection_Model.PNG)
 
 *The above diagram illustrates the machine learning model architecture used for cancer detection.*
 
